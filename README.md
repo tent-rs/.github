@@ -1,6 +1,6 @@
 # Tent for Rust
 
-![tent-rs logo](https://github.com/tent-rs/.github/assets/5351546/80755c8b-27d6-4648-a078-f78e8c2b25fc | width=100px)
+<img src=https://github.com/tent-rs/.github/assets/5351546/80755c8b-27d6-4648-a078-f78e8c2b25fc width=100 height=100 />
 
 `tent-rs` is a sanctuary for Rust crates that have lost their maintainers.
 
