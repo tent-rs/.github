@@ -6,6 +6,9 @@ Our mission is to provide a temporary haven for these crates, ensuring they rema
 
 ## What We Do
 
+The Rust ecosystem is vibrant and ever-evolving. However, sometimes maintainers move on, leaving crates without the necessary upkeep. `tent-rs` steps in to ensure these crates don't fall by the wayside, providing a temporary tent of support.
+
+
 ### Minimal Maintenance
 
 We commit to providing the bare minimum maintenance required to keep these crates functional. This includes, but is not limited to:
@@ -23,9 +26,15 @@ We will not be adding new features or addressing bugs. Our focus is solely on en
 
 Our support is provisional. If the original maintainers return, we will gladly hand back the reins, ensuring they are updated with all the changes made. If a crate no longer has an active user base, we may decide to discontinue our support.
 
-## Why `tent-rs`?
+## How to use?
 
-The Rust ecosystem is vibrant and ever-evolving. However, sometimes maintainers move on, leaving crates without the necessary upkeep. `tent-rs` steps in to ensure these crates don't fall by the wayside, providing a temporary tent of support.
+```toml
+package = { package = "tent-package", version = "x.y.z" }
+```
+
+## Crates in tent
+
+- [tent-thrift](https://crates.io/crates/tent-thrift)
 
 ## How to Contribute?
 
