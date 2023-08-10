@@ -1,4 +1,7 @@
-# Tent for Rust
+# Tent for Rust [![chat]][discord]
+
+[chat]: https://img.shields.io/discord/1139215525705166868
+[discord]: https://discord.gg/FWFXtD56rG
 
 <img src=https://github.com/tent-rs/.github/assets/5351546/80755c8b-27d6-4648-a078-f78e8c2b25fc width=100 height=100 />
 
